@@ -43,7 +43,7 @@ Saya seorang **Pengembang Perangkat Lunak** yang bersemangat tentang **pengemban
 ---
 
 ### 💬 Hubungi Saya:
-- 📧 Email: [email@example.com](mailto:email@example.com)
+- 📧 Email: [naniapratami@gmail.com](mailto:naniapratami@gmail.com)
 - 🌐 Website: [www.website-anda.com](https://www.website-anda.com)
 - 🐦 Twitter: [@username](https://twitter.com/username)
 - 💼 LinkedIn: [linkedin.com/in/username](https://www.linkedin.com/in/username)
